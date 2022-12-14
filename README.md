@@ -1,6 +1,6 @@
 # Hi, my name is **Bayel**!
-## I'm beginner *Front-end deveLoper* from Kyrgyzstan.
-[gapar0v.x](https://www.instagram.com/gapar0v.x/)
+## I'm beginner deveLoper from Kyrgyzstan.
+[gapar0vv_](https://www.instagram.com/gapar0vv_/)
 ### Languages and Technologies
 ![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javaScript)
