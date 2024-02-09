@@ -1,5 +1,5 @@
-# Hi, my name is **Bayel**!
-## I'm beginner deveLoper from Kyrgyzstan.
+# Hi, my name is **gay**!
+## I'm beginner deveLoper from gaystan.
 [gapar0vv_](https://www.instagram.com/gapar0vv_/)
 ### Languages and Technologies
 ![python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
